@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CountryProfile</string>
+    <string name="BangladeshButton">Bangladesh</string>
+    <string name="PakistanButton">Pakistan</string>
+    <string name="IndiaButton">India</string>
+    <string name="Title">This is AlertDialogue </string>
+    <string name="message">Do you want to exist</string>
+
+    <string name="Bangladesh">
+
+        Bangladesh is a small country with huge population.\n\n
+        The people of Bangladesh are really ridiculous.\n
+        There are 170 million people in 148440  kilometer.\n
+        The national religion is Islam.\n
+        And people are really crazy about cricket.\n
+
+    </string>
+
+    <string name="Pakistan">
+
+       Pakistan,[c] officially the Islamic Republic of Pakistan,[d] is a country in South Asia.\n\n
+        It is the worlds fifth-most populous country with a population exceeding 212.2 million.\n\n
+        It has the worlds second-largest Muslim population.\n
+        It is the 33rd-largest country by area, spanning 881,913 square kilometres (340,509 square miles).\n\n
+
+
+    </string>
+
+    <string name="india">
+
+        India (Hindi:), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[23] is a country in South Asia.\n\n
+        It is the second-most populous country, the seventh-largest country by land area.\n\n
+        And the most populous democracy in the world.\n
+        Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast\n\n
+
+    </string>
+
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:background="#061679"
+    android:padding="5dp"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <Button
+
+        android:id="@+id/bangladeshid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:drawableLeft="@drawable/bdiconbd"
+        android:text="@string/BangladeshButton"
+        android:textColor="#E2467C"
+        android:textSize="25dp"
+        android:textStyle="italic"
+
+
+
+        >
+
+    </Button>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/PakistanButton"
+        android:textStyle="italic"
+        android:textColor="#EE0E3B"
+        android:textSize="25dp"
+        android:id="@+id/pakistanid"
+        android:drawableLeft="@drawable/pakistan"
+
+        >
+    </Button>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/IndiaButton"
+        android:textStyle="italic"
+        android:textSize="25dp"
+        android:textColor="#E2467C"
+        android:id="@+id/indiaid"
+        android:drawableLeft="@drawable/india_icon"
+
+        >
+    </Button>
+
+
+
+</LinearLayout>
